@@ -5,3 +5,4 @@ class Employee:
 
     def display(self):
         print(self.emp_id, self.name)
+            print("conflict branch")
