@@ -7,4 +7,4 @@ class Employee:
 
     def display(self):
         print(self.emp_id, self.name)
-            print("main")
+            print("conflict manually solved")
